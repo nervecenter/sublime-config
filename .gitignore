@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Add things to not ignore
+!.gitignore
+!Preferences.sublime-settings
+!Package Control.sublime-settings

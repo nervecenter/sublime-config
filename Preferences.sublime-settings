@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"translate_tabs_to_spaces": true,
+    "rulers": [80],
+	"word_wrap": true,
+	"wrap_width": 80
+}
